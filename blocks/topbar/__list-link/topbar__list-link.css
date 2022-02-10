@@ -1,0 +1,14 @@
+.topbar__list-link {
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 10px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  cursor: pointer;
+  transition: .5s;
+}
+.topbar__list-link:hover {
+    opacity: 0.2;
+  }

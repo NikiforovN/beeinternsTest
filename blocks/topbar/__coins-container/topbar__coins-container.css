@@ -1,0 +1,10 @@
+.topbar__coins-container{
+    background-color: #FF4738;
+    border-radius: 4px;
+    min-width: 18px;
+    min-height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 3px;
+}

@@ -1,0 +1,11 @@
+.leftbar__menu {
+  width: 100%;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-bottom: 1px solid rgba(216, 216, 216, 0.1);
+  margin: 0;
+}
+

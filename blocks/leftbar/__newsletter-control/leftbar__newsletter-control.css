@@ -1,0 +1,11 @@
+.leftbar__newsletter-control {
+  border-radius: 50%;
+  z-index: 1;
+  display: none;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.leftbar__newsletter-control:checked {
+  background-color: #6f6eff;
+  opacity: 1;
+}

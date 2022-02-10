@@ -1,0 +1,9 @@
+.leftbar__list-item-lecture{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.leftbar__list-item-lecture:checked{
+    border-left: 3px solid rgba(111, 110, 255, 0.5);
+}

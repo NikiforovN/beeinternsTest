@@ -1,0 +1,9 @@
+.topbar__name {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 10px;
+  color: #fff;
+  min-width: 89px;
+  margin-top: 22px;
+  margin-bottom: 9px;
+}

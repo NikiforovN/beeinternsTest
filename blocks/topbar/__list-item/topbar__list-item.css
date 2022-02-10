@@ -1,0 +1,10 @@
+.topbar__list-item{
+    margin-left: 28px;
+    box-sizing: border-box;
+}
+.topbar__list-item:first-of-type{
+    margin-left: 55px;
+}
+.topbar__list-item:last-of-type{
+    margin-right: 28px;
+}

@@ -1,0 +1,49 @@
+@import url(../vendor/normalize.css);
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap');
+@import url(../blocks/root/root.css);
+@import url(../blocks/leftbar/leftbar.css);
+@import url(../blocks/leftbar/__container/leftbar__container.css);
+@import url(../blocks/leftbar/__list-item-lecture/leftbar__list-item-lecture.css);
+@import url(../blocks/leftbar/__logo/leftbar__logo.css);
+@import url(../blocks/leftbar/__logo-title/leftbar__logo-title.css);
+@import url(../blocks/leftbar/__logo-image/leftbar__logo-image.css);
+@import url(../blocks/leftbar/__logo-year/leftbar__logo-year.css);
+@import url(../blocks/leftbar/__list/leftbar__list.css);
+@import url(../blocks/leftbar/__list-item/leftbar__list-item.css);
+@import url(../blocks/leftbar/__list-item-lecture/leftbar__list-item-lecture.css);
+@import url(../blocks/leftbar/__menu/leftbar__menu.css);
+@import url(../blocks/leftbar/__button/leftbar__button.css);
+@import url(../blocks/leftbar/__action/leftbar__action.css);
+@import url(../blocks/leftbar/__menu-container/leftbar__menu-container.css);
+@import url(../blocks/leftbar/__action-icon/leftbar__action-icon.css);
+@import url(../blocks/leftbar/__sublist/leftbar__sublist.css);
+@import url(../blocks/leftbar/__toggle/leftbar__toggle.css);
+@import url(../blocks/leftbar/__toggle-text/leftbar__toggle-text.css);
+
+
+@import url(../blocks/toggle/toggle.css);
+@import url(../blocks/toggle/__item/toggle__item.css);
+@import url(../blocks/toggle/__control/toggle__control.css);
+@import url(../blocks/toggle/__element/toggle__element.css);
+
+
+@import url(../blocks/topbar/topbar.css);
+@import url(../blocks/topbar/__account-info/topbar__account-info.css);
+@import url(../blocks/topbar/__avatar/topbar__avatar.css);
+@import url(../blocks/topbar/__coins/topbar__coins.css);
+@import url(../blocks/topbar/__coins-icon/topbar__coins-icon.css);
+@import url(../blocks/topbar/__coins-span/topbar__coins-span.css);
+@import url(../blocks/topbar/__coins-text/topbar__coins-text.css);
+@import url(../blocks/topbar/__coins-text/__coins-text_style_opacity/topbar__coins-text_style_opacity.css);
+@import url(../blocks/topbar/__list/topbar__list.css);
+@import url(../blocks/topbar/__list-item/topbar__list-item.css);
+@import url(../blocks/topbar/__list-link/topbar__list-link.css);
+@import url(../blocks/topbar/__name/topbar__name.css);
+@import url(../blocks/topbar/__online-text/topbar__online-text.css);
+@import url(../blocks/topbar/__online/topbar__online.css);
+@import url(../blocks/topbar/__round-pic/topbar__round-pic.css);
+@import url(../blocks/topbar/__status-text/topbar__status-text.css);
+@import url(../blocks/topbar/__status/topbar__status.css);
+@import url(../blocks/topbar/__coins-container/topbar__coins-container.css);
+@import url(../blocks/topbar/__account-container/topbar__account-container.css);
+

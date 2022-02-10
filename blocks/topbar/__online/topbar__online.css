@@ -1,0 +1,5 @@
+.topbar__online{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}

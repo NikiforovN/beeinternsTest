@@ -1,0 +1,6 @@
+.toggle__element {
+  transition: .5s;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+}

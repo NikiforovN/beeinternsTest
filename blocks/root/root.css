@@ -1,0 +1,8 @@
+.root {
+  max-width: 1440px;
+  display: flex;
+  font-family:'Jost', Arial, Helvetica, sans-serif;
+  
+  background: linear-gradient(135deg, rgba(45, 46, 60) 0%, rgba(54, 54, 68, 0.1));
+  mix-blend-mode: normal;
+}
