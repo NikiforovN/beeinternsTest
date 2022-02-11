@@ -1,0 +1,7 @@
+.weekly-quests__dates{
+    display: flex;
+    align-items: baseline;
+    padding-bottom: 15px;
+    padding-top: 7px;
+    box-sizing: border-box;
+}

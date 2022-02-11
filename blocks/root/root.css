@@ -2,7 +2,6 @@
   max-width: 1440px;
   display: flex;
   font-family:'Jost', Arial, Helvetica, sans-serif;
-  
-  background: linear-gradient(135deg, rgba(45, 46, 60) 0%, rgba(54, 54, 68, 0.1));
+  background: linear-gradient(135deg, rgb(47, 48, 61) 0%, rgba(49, 50, 54, 0.727) 100%);
   mix-blend-mode: normal;
 }

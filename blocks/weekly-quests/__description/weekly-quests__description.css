@@ -1,0 +1,9 @@
+.weekly-quests__description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  opacity: 0.5;
+  position: absolute;
+  top: 9px;
+  left: 15px;
+}

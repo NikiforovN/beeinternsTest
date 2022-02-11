@@ -47,3 +47,25 @@
 @import url(../blocks/topbar/__coins-container/topbar__coins-container.css);
 @import url(../blocks/topbar/__account-container/topbar__account-container.css);
 
+
+
+@import url(../blocks/weekly-quests/weekly-quests.css);
+@import url(../blocks/weekly-quests/__container-top/weekly-quests__container-top.css);
+@import url(../blocks/weekly-quests/__box-title/weekly-quests__box-title.css);
+@import url(../blocks/weekly-quests/__subtitle/weekly-quests__subtitle.css);
+@import url(../blocks/weekly-quests/__title/weekly-quests__title.css);
+@import url(../blocks/weekly-quests/__box-buttons/weekly-quests__box-buttons.css);
+@import url(../blocks/weekly-quests/__button/weekly-quests__button.css);
+@import url(../blocks/weekly-quests/__button/_position/weekly-quests__button_position.css);
+@import url(../blocks/weekly-quests/__arrow-button/weekly-quests__arrow-button.css);
+@import url(../blocks/weekly-quests/__arrow-button-pic/weekly-quests__arrow-button-pic.css);
+@import url(../blocks/weekly-quests/__items/weekly-quests__items.css);
+@import url(../blocks/weekly-quests/__item/weekly-quests__item.css);
+@import url(../blocks/weekly-quests/__lection-box/weekly-quests__lection-box.css);
+@import url(../blocks/weekly-quests/__lection/weekly-quests__lection.css);
+@import url(../blocks/weekly-quests/__image/weekly-quests__image.css);
+@import url(../blocks/weekly-quests/__content/weekly-quests__content.css);
+@import url(../blocks/weekly-quests/__topic/weekly-quests__topic.css);
+@import url(../blocks/weekly-quests/__description/weekly-quests__description.css);
+@import url(../blocks/weekly-quests/__dates/weekly-quests__dates.css);
+@import url(../blocks/weekly-quests/__date/weekly-quests__date.css);

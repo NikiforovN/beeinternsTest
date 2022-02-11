@@ -1,0 +1,17 @@
+.weekly-quests__arrow-button {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 30px;
+  height: 30px;
+  background-color: rgb(49, 50, 64);
+  transition: .5s;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.weekly-quests__arrow-button:hover{
+    opacity: .5;
+}
+.weekly-quests__arrow-button:last-of-type{
+  margin-right: 55px;
+}

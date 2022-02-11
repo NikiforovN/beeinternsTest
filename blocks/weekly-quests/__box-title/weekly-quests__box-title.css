@@ -1,0 +1,4 @@
+.weekly-quests__box-title{
+    display: flex;
+    flex-direction: column;
+}

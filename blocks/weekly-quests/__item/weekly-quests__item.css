@@ -1,0 +1,12 @@
+.weekly-quests__item{
+    max-width: 255px;
+    height: 294px;
+    position: relative;
+    background-color: rgb(56, 57, 70);
+    border-radius: 6px;
+    overflow: hidden;
+    margin-left: 11px;
+}
+.weekly-quests__item:first-of-type{
+    margin-left: 55px;
+}
