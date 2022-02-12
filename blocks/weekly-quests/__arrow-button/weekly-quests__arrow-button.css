@@ -12,6 +12,7 @@
 .weekly-quests__arrow-button:hover{
     opacity: .5;
 }
+
 .weekly-quests__arrow-button:last-of-type{
-  margin-right: 55px;
+  margin-right: 0px;
 }

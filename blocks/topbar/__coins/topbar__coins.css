@@ -9,5 +9,14 @@
     margin-left: 10px;
 }
 .topbar__coins:first-of-type{
-    margin-left: 312px;
+    margin-left: 200px;
+}
+
+@media screen and (max-width:1280px) {
+    .topbar__coins{
+        margin-left: 10px;
+    }
+    .topbar__coins:first-of-type{
+        margin-left:120px;
+    }
 }

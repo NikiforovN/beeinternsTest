@@ -1,5 +1,7 @@
 .leftbar{
+    position: fixed;
     min-width: 280px;
+    max-height: 810px;
     background-color: rgb(52, 54, 70);
     color: #fff;
 }

@@ -1,0 +1,8 @@
+.weekly-quests__box-buttons{
+    margin-right: 48px;
+}
+@media screen and (max-width:1280px) {
+    .weekly-quests__box-buttons{
+      margin-right: 20px;
+    }
+  }

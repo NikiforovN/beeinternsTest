@@ -5,8 +5,8 @@
     background-color: rgb(56, 57, 70);
     border-radius: 6px;
     overflow: hidden;
-    margin-left: 11px;
+    margin-left: 10px;
 }
 .weekly-quests__item:first-of-type{
-    margin-left: 55px;
+    margin-left: 0;
 }

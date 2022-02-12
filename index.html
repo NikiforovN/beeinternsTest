@@ -19,13 +19,13 @@
         <nav class="leftbar__menu">
             <div class="leftbar__menu-container">
                 <ul class="leftbar__list">
-                    <li class="leftbar__list-item"><span>Программа</span><img class="leftbar__button" src="./images/leftbar__triangle.svg" alt="Кнопка"></li>
+                    <li class="leftbar__list-item leftbar__list_first"><span>Программа</span><img class="leftbar__button leftbar__button_first leftbar__button_rotation" src="./images/leftbar__triangle.svg" alt="Кнопка"></li>
                     <li>
-                        <ul class="leftbar__list leftbar__sublist">
+                        <ul class="leftbar__list leftbar__sublist leftbar__sublist_invisible">
                             <li class="leftbar__list-item"><span>МЕНТОРЫ</span></li>
-                            <li class="leftbar__list-item"><span>ЛЕКЦИИ</span><img class="leftbar__button" src="./images/leftbar__triangle.svg" alt="Кнопка"></li>
+                            <li class="leftbar__list-item leftbar__list_second"><span>ЛЕКЦИИ</span><img class="leftbar__button leftbar__button_second leftbar__button_rotation" src="./images/leftbar__triangle.svg" alt="Кнопка"></li>
                             <li>
-                                <ul class="leftbar__action">
+                                <ul class="leftbar__action leftbar__sublist_invisible">
                                     <li class="leftbar__list-item-lecture"><img class="leftbar__action-icon" src="./images/leftbar__action-knife.svg" alt="Меч"><span>HTML/CSS</span></li>
                                     <li class="leftbar__list-item-lecture"><img class="leftbar__action-icon" src="./images/leftbar__action-rocket.svg" alt="ракета"><span>GIT</span></li>
                                     <li class="leftbar__list-item-lecture"><img class="leftbar__action-icon" src="./images/leftbar__action-puzzle.svg" alt="Пазлл"><span>JavaScript</span></li>
@@ -35,11 +35,11 @@
                                        
                                 </ul>
                             </li>
-                            <li class="leftbar__list-item"><span>ПРАВИЛА ПОСТУПЛЕНИЯ</span></li>
-                            <li class="leftbar__list-item"><span>НОВОСТИ</span></li>
-                            <li class="leftbar__list-item"><span>ОБРАТНАЯ СВЯЗЬ</span></li>
                         </ul>
                     </li>
+                    <li class="leftbar__list-item"><span>ПРАВИЛА ПОСТУПЛЕНИЯ</span></li>
+                    <li class="leftbar__list-item"><span>НОВОСТИ</span></li>
+                    <li class="leftbar__list-item"><span>ОБРАТНАЯ СВЯЗЬ</span></li>
                 </ul>
             </div>
         </nav>
@@ -57,7 +57,7 @@
             </div>
         </div>
     </section>
-    <main>
+    <main class="content">
         <section class="topbar">
             <ul class="topbar__list">
                 <li class="topbar__list-item"><a class="topbar__list-link" href="#" target="_blank">FAQ</a></li>
@@ -230,5 +230,6 @@
             </div>
         </section>
     </main>
+    <script src="./scripts/sript.js"></script>
 </body>
 </html>

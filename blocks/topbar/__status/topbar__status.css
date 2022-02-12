@@ -8,5 +8,9 @@
   align-items: center;
   margin-left: 15px;
   margin-top: 8px;
-  margin-right: 45px;
 }
+@media screen and (max-width:1280px) {
+  .topbar__status{
+    margin-right: 0;
+  }
+} 

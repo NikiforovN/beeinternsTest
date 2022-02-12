@@ -6,10 +6,15 @@
     padding-left: 30px;
     padding-right: 30px;
     margin-top: 13px;
+    cursor: pointer;
+    transition: .5s;
 }
 .leftbar__list-item:first-of-type{
     margin-top: 0;
 }
 .leftbar__list-item:last-of-type{
     margin-bottom: 20px;
+}
+.leftbar__list-item:hover{
+    opacity: .5;
 }

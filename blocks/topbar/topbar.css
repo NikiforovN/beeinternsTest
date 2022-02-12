@@ -1,5 +1,18 @@
-.topbar{
-    max-width: 1160px;
-    display: flex;
-    align-items: center;
+.topbar {
+  width: 1160px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  left: 280px;
+  top: 0;
+  z-index: 5;
+  background-color: rgb(46, 47, 61);
+  border-bottom: 1px solid rgba(216, 216, 216, 0.1); 
+  padding-bottom: 9px;
+}
+@media screen and (max-width: 1280px) {
+  .topbar {
+    width: 1000px;
+    padding-right: 20px;
+  }
 }

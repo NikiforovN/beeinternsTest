@@ -1,4 +1,6 @@
 .weekly-quests__container-top{
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }

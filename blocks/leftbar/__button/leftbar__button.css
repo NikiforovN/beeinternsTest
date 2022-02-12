@@ -1,3 +1,4 @@
 .leftbar__button{
-    
+    cursor: pointer;
+    transition: .5s;
 }

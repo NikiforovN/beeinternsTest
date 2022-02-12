@@ -1,0 +1,11 @@
+.content{
+    max-width: 80%;
+    top:112px;
+    left:280px;
+    position:absolute;
+}
+@media screen and (max-width:1280px) {
+    .content{
+        max-width: 78.125%;
+    }
+}
