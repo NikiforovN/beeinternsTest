@@ -9,7 +9,7 @@
     margin-left: 10px;
 }
 .topbar__coins:first-of-type{
-    margin-left: 200px;
+    margin-left: auto;
 }
 
 @media screen and (max-width:1280px) {

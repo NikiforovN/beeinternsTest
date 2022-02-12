@@ -1,5 +1,5 @@
 .topbar {
-  width: 1160px;
+  min-width: 100%;
   display: flex;
   align-items: center;
   position: fixed;
@@ -12,7 +12,7 @@
 }
 @media screen and (max-width: 1280px) {
   .topbar {
-    width: 1000px;
+    min-width: 80.5%;
     padding-right: 20px;
   }
 }
