@@ -4,7 +4,6 @@
     position: relative;
     background-color: rgb(56, 57, 70);
     border-radius: 6px;
-    overflow: hidden;
     margin-left: 10px;
 }
 .weekly-quests__item:first-of-type{

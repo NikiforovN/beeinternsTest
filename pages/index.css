@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&display=swap');
 @import url(../blocks/root/root.css);
 @import url(../blocks/content/content.css);
+@import url(../blocks/container/container.css);
 
 @import url(../blocks/leftbar/leftbar.css);
 @import url(../blocks/leftbar/__container/leftbar__container.css);

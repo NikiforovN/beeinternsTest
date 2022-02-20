@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 .topbar__list-item:first-of-type{
-    margin-left: 55px;
+    margin-left: 0;
 }
 .topbar__list-item:last-of-type{
     margin-right: 28px;

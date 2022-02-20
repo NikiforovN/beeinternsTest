@@ -1,7 +1,14 @@
 .leftbar{
     position: fixed;
+    top: 0;
+    left: 0;
     min-width: 280px;
-    max-height: 810px;
+    max-height: 100vh;
     background-color: rgb(52, 54, 70);
     color: #fff;
+}
+@media screen and (max-width:768px) {
+    .leftbar{
+       display: none;
+    }
 }

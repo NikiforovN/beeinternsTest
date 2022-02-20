@@ -1,7 +1,7 @@
 .root {
   max-width: 1440px;
-  display: flex;
+  width: 100%;
+ /*  display: flex; */
   font-family:'Jost', Arial, Helvetica, sans-serif;
   background-color: rgb(46, 47, 61);
-  mix-blend-mode: normal;
 }

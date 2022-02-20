@@ -1,18 +1,21 @@
 .topbar {
-  min-width: 100%;
+  width: 100%;
   display: flex;
   align-items: center;
-  position: fixed;
+  position: sticky;
   left: 280px;
   top: 0;
   z-index: 5;
   background-color: rgb(46, 47, 61);
   border-bottom: 1px solid rgba(216, 216, 216, 0.1); 
-  padding-bottom: 9px;
+  padding: 0 55px 9px;
+  box-sizing: border-box;
+  border: 1px solid red;
 }
-@media screen and (max-width: 1280px) {
-  .topbar {
-    min-width: 80.5%;
-    padding-right: 20px;
+@media screen and (max-width:768px) {
+  .topbar{
+    position: sticky;
+    left: 0;
+    top: 0;
   }
 }
