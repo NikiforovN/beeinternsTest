@@ -6,4 +6,4 @@
 
 
 ## Ссылка на GitHub Pages
-[Ссылка наGitHub Pages](https://nikiforovn.github.io/beeinternsTest/)
+[Ссылка на GitHub Pages](https://nikiforovn.github.io/beeinternsTest/)
